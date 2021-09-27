@@ -31,42 +31,63 @@
  
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) 
-* ⚠️ specific skills
+<details>
+<summary> ⚠️ specific skills</summary>
+
   * [Warp/WAI](https://hackage.haskell.org/package/warp)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   * Numerical Haskell 🔢  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   * Parsing  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
   * [Hot-Swap systems](https://github.com/fbsamples/ghc-hotswap) 🔥  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
+</details>
+ 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) 
-* ⚠️ specific skills
+<details>
+<summary>⚠️ specific skills</summary>
+ 
   * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cython-logo.svg/1200px-Cython-logo.svg.png" width=80 >  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
   * <img src="https://user-images.githubusercontent.com/9504279/40606243-9cb2447a-6219-11e8-8480-361e002107a1.png" width=130>  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
   * [NLTK](https://github.com/nltk/nltk)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
   * [Falcon](https://github.com/falconry/falcon)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
   * ![[button](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
-  * ![[button](https://github.com/pytorch/pytorch)](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+  * ![[button](https://github.com/pytorch/pytorch)](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) 
+ 
+</details>
 
 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90) 
-* ⚠️ specific skills
-  * [RegexGrammars/Parsing in General](https://metacpan.org/pod/Regexp::Grammars) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+<details>
+<summary>⚠️ specific skills </summary>
   
+ * [RegexGrammars/Parsing in General](https://metacpan.org/pod/Regexp::Grammars) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+
+</details>
+ 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70) 
-* ⚠️ specific skills
+<details>
+<summary>⚠️ specific skills</summary>
+   
    * [LiveScript](http://livescript.net/)![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
    * ![[button](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
    * [Brain.js](https://brain.js.org)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
    * ![[button](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-   
+
+</details>
+ 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) 
-* ⚠️ specific skills
-   * [Cowboy](https://github.com/ninenines/cowboy) 🤠  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
+<details>
+
+ <summary> ⚠️ specific skills </summary>
+   
+ * [Cowboy](https://github.com/ninenines/cowboy) 🤠  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
    * [Genex ( genetic algorithms )](https://github.com/seanmor5/genex) 🧬 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
+</details>
+ 
 ##### Soft skils
   * Languages 
     * Portuguese - ![](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png) ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
