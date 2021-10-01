@@ -13,7 +13,7 @@
 ##### I'm working on several projects at the same time, meanly individual ones. 
 * 🚧 Spam Filter system ( Haskell ) 
 * 💾 Data recovering with Hopfield Networks ( Haskell )
-* 🖨️ Static analyser ( Perl )
+* 🖨️ Static analyser ( Livescript | Haskell )
 * 🚜 IOT for farm monitoring  
 
 ### 🐱‍💻 Skills 
